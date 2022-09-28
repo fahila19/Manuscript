@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    text-align: center;
+    font-family: 'work sans';
+    background-color: rgb(248, 213, 213);
+  }
+h1 { font-size: 80px;
+    text-align: center;
+    font-family: 'Work Sans';
+    color: rgb(16, 1, 15);
+  }
+h2 {
+    color: black;
+    text-align: center;
+    font-family: 'Tahoma';
+    font-size: 40px;
+
+}
+h3 {
+    background-color: rgb(239, 67, 35);
+    color: rgb(251, 237, 233);
+    text-align: center;
+    font-family: 'Verdana';
+    font-size: 50px;
+  }
